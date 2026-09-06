@@ -1,10 +1,12 @@
+import { Controls, Canvas } from './components/_index'
 import './styles/global.scss'
 
 function App() {
 
   return (
     <>
-	    hello world
+	    <Controls />
+      <Canvas />
     </>
   )
 }

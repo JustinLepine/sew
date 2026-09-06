@@ -1,7 +1,7 @@
 
 function Controls() {
   return (
-    <div>
+    <div className='controls'>
       
     </div>
   )
